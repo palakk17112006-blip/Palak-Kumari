@@ -1,10 +1,17 @@
+
 <h1 align="center">Hi 👋, I'm Palak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palakk17112006-blip&label=Profile%20views&color=0e75b6&style=flat" alt="palakk17112006-blip" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=palakk17112006-blip&label=Profile%20views&color=0e75b6&style=flat" 
+       alt="palakk17112006-blip" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palakk17112006-blip" alt="palakk17112006-blip" /></a> </p>
-
+<img align="right"
+     alt="coding"
+     width="400"
+     src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+</p>
 - Hi , I’m currently working on **Frontend Development Projects**
 
 - 🌱 I’m currently learning **Web Development**
